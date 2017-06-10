@@ -3,4 +3,6 @@
 
 2.运行项目
 
-3.浏览器访问：http://localhost:8080/ActiveMQSpringDemo/index.jsp
+3.
+浏览器访问：http://localhost:8080/（配置根目录为“/”）
+浏览器访问：http://localhost:8080/spring_mq/index.jsp （未配置根目录为“/”）
